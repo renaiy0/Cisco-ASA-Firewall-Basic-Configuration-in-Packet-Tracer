@@ -548,15 +548,6 @@ This project is licensed under the MIT License - free to use for educational pur
 
 ---
 
-## 👨‍💻 Author
-
-**renaiy0**
-
-📧 Questions? Open an issue!  
-⭐ Found this helpful? Star the repo!  
-🔗 Share with network security enthusiasts!
-
----
 
 <div align="center">
 
