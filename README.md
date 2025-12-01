@@ -33,7 +33,7 @@ This project demonstrates a comprehensive Cisco ASA (Adaptive Security Appliance
 ## 🖼️ Network Topology
 
 <div align="center">
-  <img src="assets/topology1.png" alt="ASA Firewall Network Topology" width="800"/>
+  <img src="assets/topology.png" alt="ASA Firewall Network Topology" width="800"/>
   <p><em>Three-zone network architecture with ASA firewall at the center</em></p>
 </div>
 
@@ -72,12 +72,12 @@ The network consists of three distinct security zones:
 ## 💻 ASA Configuration Screenshots
 
 <div align="center">
-  <img src="assets/cli1.png" alt="ASA Initial Configuration" width="800"/>
+  <img src="assets/ASACLI.png" alt="ASA Initial Configuration" width="800"/>
   <p><em>ASA firewall initial setup and interface configuration</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/cli2.png" alt="ASA Security Configuration" width="800"/>
+  <img src="assets/ASACLI1.png" alt="ASA Security Configuration" width="800"/>
   <p><em>Security levels, NAT, and policy configuration</em></p>
 </div>
 
